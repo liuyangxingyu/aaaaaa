@@ -21,6 +21,11 @@ namespace aaaaaa.Controllers
             return View();
         }
 
+        public ActionResult bbbbbb()
+        {
+            return View();
+        }
+
         public ActionResult a11111() { 
             return View();
         }
