@@ -25,7 +25,10 @@ namespace aaaaaa.Controllers
         {
             return View();
         }
-
+        public ActionResult cccc()
+        {
+            return View();
+        }
         public ActionResult a11111() { 
             return View();
         }
