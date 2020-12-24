@@ -16,6 +16,10 @@ namespace aaaaaa.Controllers
         {
             return View();
         }
+
+        public ActionResult hello_word() { 
+            return View();
+        }
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
