@@ -16,8 +16,12 @@ namespace aaaaaa.Controllers
         {
             return View();
         }
+        public ActionResult aaa()
+        {
+            return View();
+        }
 
-        public ActionResult hello_word() { 
+        public ActionResult a11111() { 
             return View();
         }
         public ActionResult About()
